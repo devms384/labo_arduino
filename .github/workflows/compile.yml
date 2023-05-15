@@ -12,4 +12,4 @@ jobs:
         with:
           sketch-paths: |
             - ./
-          fqdn: arduino:avr:uno
+          fqbn: arduino:avr:uno
